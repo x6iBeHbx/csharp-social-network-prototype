@@ -17,7 +17,7 @@ namespace SocialNetWorkDBModel
             {
                 var profession = new Professions()
                 {
-                    ProfessionName = "QA"
+                    ProfessionName = "Manager"
                 };
 
                 //context.Professions.Add(profession);
@@ -26,7 +26,7 @@ namespace SocialNetWorkDBModel
                 var user = new User()
                 {
                     FirstName = "Vova",
-                    SecondName = "Vovan",
+                    SecondName = "Opium",
                     BirthDate = DateTime.Now,
                 };
 
@@ -44,16 +44,16 @@ namespace SocialNetWorkDBModel
                 //context.Users.Add(user);
                 //context.SaveChanges();
 
-                try
-                {
-                    context.UsersData.Add(userData);
-                    context.SaveChanges();
-                }
-                catch (Exception ex)
-                {
+                //try
+                //{
+                //    context.UsersData.Add(userData);
+                //    context.SaveChanges();
+                //}
+                //catch (Exception ex)
+                //{
 
-                    Console.WriteLine(ex.Message);
-                }
+                //    Console.WriteLine(ex.Message);
+                //}
 
                 //Console.WriteLine("Введите логин юзера");
                 //var userLigin = Console.ReadLine();

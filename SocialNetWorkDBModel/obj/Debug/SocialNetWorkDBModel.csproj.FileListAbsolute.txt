@@ -5,10 +5,7 @@ E:\work\projects\с#\SocialNetWorkDBModel\SocialNetWorkDBModel\bin\Debug\EntityF
 E:\work\projects\с#\SocialNetWorkDBModel\SocialNetWorkDBModel\bin\Debug\EntityFramework.SqlServer.dll
 E:\work\projects\с#\SocialNetWorkDBModel\SocialNetWorkDBModel\bin\Debug\EntityFramework.xml
 E:\work\projects\с#\SocialNetWorkDBModel\SocialNetWorkDBModel\bin\Debug\EntityFramework.SqlServer.xml
-E:\work\projects\с#\SocialNetWorkDBModel\SocialNetWorkDBModel\obj\Debug\SocialNetWorkDBModel.csprojResolveAssemblyReference.cache
-E:\work\projects\с#\SocialNetWorkDBModel\SocialNetWorkDBModel\obj\Debug\SocialNetWorkDBModel.Migrations.init.resources
-E:\work\projects\с#\SocialNetWorkDBModel\SocialNetWorkDBModel\obj\Debug\SocialNetWorkDBModel.Migrations.init2.resources
-E:\work\projects\с#\SocialNetWorkDBModel\SocialNetWorkDBModel\obj\Debug\SocialNetWorkDBModel.csproj.GenerateResource.Cache
 E:\work\projects\с#\SocialNetWorkDBModel\SocialNetWorkDBModel\obj\Debug\SocialNetWorkDBModel.exe
 E:\work\projects\с#\SocialNetWorkDBModel\SocialNetWorkDBModel\obj\Debug\SocialNetWorkDBModel.pdb
-E:\work\projects\с#\SocialNetWorkDBModel\SocialNetWorkDBModel\obj\Debug\SocialNetWorkDBModel.Migrations.refactoring_db.resources
+E:\work\projects\с#\SocialNetWorkDBModel\SocialNetWorkDBModel\obj\Debug\SocialNetWorkDBModel.Migrations.init.resources
+E:\work\projects\с#\SocialNetWorkDBModel\SocialNetWorkDBModel\obj\Debug\SocialNetWorkDBModel.csproj.GenerateResource.Cache

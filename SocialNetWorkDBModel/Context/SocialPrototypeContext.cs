@@ -17,7 +17,7 @@ namespace SocialNetWorkDBModel.Context
 
 
         public DbSet<User> Users{ get; set; }
-        public DbSet<UserData> UsersData { get; set; }
+        //public DbSet<UserData> UsersData { get; set; }
         public DbSet<Professions> Professions { get; set; }
         //public DbSet<StatesEnum> UserState { get; set; }
         //public DbSet<SexEnum> UserSex { get; set; }
